@@ -1,0 +1,25 @@
+body {
+    background-color: lightcyan;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+h1 {
+    background-color: black;
+    font-family: Arial, sans-serif;
+    font-size: 36px;
+    color: lightskyblue; 
+    font-weight: 800; 
+    text-align: center;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+p {
+    font-family: Arial, sans-serif;
+    font-size: 16px;   
+}
+h3 {
+    font-size: 24px;
+}
